@@ -1,2 +1,2 @@
-# whatsapp-clone
-basic whatsapp clone
+# Blog-Gallery 
+basic Blog-Gallery
